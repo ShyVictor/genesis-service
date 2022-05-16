@@ -1,4 +1,0 @@
-name: ClashflowServiceApplication
-version: ${project.version}
-main: br.devshy.genesis.cashflowservice.Cashflowservice
-api-version: 1.15
